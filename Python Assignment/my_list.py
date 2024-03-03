@@ -16,4 +16,6 @@ my_list.sort()
 
 
 index_30 = my_list.index(30)
+#Output of the code 
+
 print(index_30)
